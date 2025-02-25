@@ -57,11 +57,7 @@ The dataset consists of 20,757 entries and 22 features, including:
     * Created histograms to display price distribution.
     * Most listings fell within the $50 - $300 range.
 
-5. **Host Analysis**
-
-    * Used box plots to identify hosts managing multiple listings.
-
-6. **Review Patterns**
+5. **Review Patterns**
 
     * Applied pair plots to study relationships between reviews, price, and availability.
 
@@ -91,9 +87,6 @@ The dataset consists of 20,757 entries and 22 features, including:
 
     * Listings with higher availability tend to have lower prices and more reviews, indicating better guest experiences.
 
-5. **Host Behavior**
-
-    * Some hosts manage multiple listings, suggesting a trend toward professional hosting.
 
 ## Recommendations
 
